@@ -12,6 +12,7 @@
 
 2. **MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/85144847/132283003-b732f1d0-9444-4294-8295-071fa1e19831.png)
 
 3. **EXPLICACION DEL LABORATORIO**
 
@@ -41,34 +42,65 @@
 
 ![image](https://user-images.githubusercontent.com/85144847/132269963-3ef931eb-4dd0-4407-a1c9-dfab5f560810.png)
 
+3.6. Instalamos los componentes electricos en nuestra placa de conexiones como se muestra en el circuito indicado anteriormente con sus respectivas caracteristicas tanto de voltaje como de resistencia.
 
-3.5. C
+![image](https://user-images.githubusercontent.com/85144847/132278678-c147c932-570c-477e-bad1-c14ad735ba51.png)
+
+3.7. Utilizamos el Osciloscopio para poder ver el comportamiento de la Onda Senosoidal del circuito producida por la fuente de alimentacion de C.A. con esto podremos contestar las interrogantes que nos indica la guia metodologica.
+
+![image](https://user-images.githubusercontent.com/85144847/132279271-c33378cc-b105-43c7-81c1-e9197e48345c.png)
+
+3.5. Acabando de utilizar el Osciloscopio para ver el comportamiento de la Onda Senosoidal procederemos a quitarlo y ahora utilizaremos el multimetro para poder medir el voltaje de la resistencia de 2.2 kΩ entregado por la fuente de alimentacion.
+
+![image](https://user-images.githubusercontent.com/85144847/132282466-cedf1b6d-4387-4930-a969-502acc6a14cd.png)
+
+3.6. Recolectamos los datos y hemos acabado.
 
 4. **RESPUESTA A INTERROGANTES**
 
 **4.1.** ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
+**Respuesta:** La amplitud de la señal de salida tiene aproximadamente 3.33 divisiones por cuadro.
+
 **4.2.** ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+
+**Respuesta:** La perilla esta posicionada en el valor de 3 VOLTS/DIV.
 
 **4.3.** ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+**Respuesta:** El ciclo completo que abarca la señal de salida es de 4 cuadros.
+
 **4.4.** ¿En qué valor está posicionada la perilla TIME/DIV? 
+
+**Respuesta:** La perilla esta posicionada en el valor de 0.1ms 
 
 **4.5.** ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 Amplitud de voltaje: ____________(V)
 
+**Respuesta:** 33.98 voltios
+
 Periodo: ____________(s)
+
+**Respuesta:** 4 x 10^(-12) (segundos)
 
 **4.6.** Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
 f: _____________(Hz)
 
+**Respuesta:** 2.5 x 10^(11) Hz
+
 ω: ____________(rad/s)
+
+**Respuesta:** 5π x 10^(11) rad/s
 
 **4.7.** Con el multímetro digital mida el voltaje de salida en RL: _______
 
+**Respuesta:** 23.77 v
+
 **4.8.** Compare el voltaje medido en el punto 4.5. y el obtenido en el punto 4.7. ¿Coinciden? _______ ¿Por qué?
+
+**Respuesta:** No coinciden en absoluto, porque debido a que en el punto 4.5 tenemos la amplitud del voltaje medido por la onda senosoidal entonces ahi tiene valores como decir disparados y dispersos en cambio en el multimetro tiene una exactitud muy conforme al voltaje requerido. 
 
 5. **VIDEO DE YOUTUBE**
 
