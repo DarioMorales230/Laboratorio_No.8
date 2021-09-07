@@ -6,9 +6,15 @@
 
 1.1. Objetivo General.
 
+Analizar, fundamentar y diseñar el laboratorio de la mejor manera posible respetando todas las conexiones realizadas, medir adecuadamente el voltaje de cada componente receptor y poder tener un concepto muy adecuado para poder ver el comportamiendo de la Onda Senosoidal de la fuente de alimentacion de C.A.
 
 1.2. Objetivos Especificos.
 
+- Explicar de la mejor manera posible como actua la Onda Senosoidal esto lo haremos con la ayuda del Osciloscopio. 
+
+- Justificar las diferentes interrogantes que se nos lleguen a presentar al momento de realizar el laboratorio.
+
+- Basar en todo momento todo lo que llegue a pasar al analizar los volatajes requeridos.
 
 2. **MARCO TEORICO**
 
@@ -107,6 +113,11 @@ f: _____________(Hz)
 
 6. **CONCLUSIONES**
 
+- Se logro conseguir de una manera muy eficiente el entendimiento del comportamiento de un Osciloscopio al estar conectado a una fuenta de alimentacion de A.C. y como actua su onda producida. 
+
+- Se pudo contestar correctamente y detalladamente las diferentes interrogantes que se nos presentaron al momento de realizar el laboratorio esto gracias a los intrumentos de medicion.
+
+- Al finalizar logramos tener todos los datos requeridos de la simulacion en una base de datos que nos ayudaron a interpretar de la mejor manera el laboratorio.
 
 7. **BIBLIOGRAFIA**
 
