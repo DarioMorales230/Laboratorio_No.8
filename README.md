@@ -1,5 +1,7 @@
 # Laboratorio_No.8
 
+# Morales Dario, Flores Nicolás, Montenegro Edwin.
+
 1. OBJETIVOS
 
 1.1. Objetivo General.
@@ -25,9 +27,9 @@
 
 7. BIBLIOGRAFIA
 
-- Análisis de Circuitos -Robbins
+- *Análisis de Circuitos -Robbins*
 
-- Cuaderno de Electrotecnia III – Ing. Wilmer Loza
+- *Cuaderno de Electrotecnia III – Ing. Wilmer Loza*
 
-- Circuitos III – Ing. Wilmer Loza
+- *Circuitos III – Ing. Wilmer Loza*
 
