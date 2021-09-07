@@ -25,9 +25,9 @@
 
 7. BIBLIOGRAFIA
 
-Análisis de Circuitos -Robbins
+- Análisis de Circuitos -Robbins
 
-Cuaderno de Electrotecnia III – Ing. Wilmer Loza
+- Cuaderno de Electrotecnia III – Ing. Wilmer Loza
 
-Circuitos III – Ing. Wilmer Loza
+- Circuitos III – Ing. Wilmer Loza
 
