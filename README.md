@@ -70,7 +70,7 @@ Analizar, fundamentar y diseñar el laboratorio de la mejor manera posible respe
 
 **4.2.** ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-**Respuesta:** *La perilla esta posicionada en el valor de 3 VOLTS/DIV.*
+**Respuesta:** *La perilla esta posicionada en el valor de 10 VOLTS/DIV.*
 
 **4.3.** ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
