@@ -66,19 +66,19 @@ Analizar, fundamentar y diseñar el laboratorio de la mejor manera posible respe
 
 **4.1.** ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
-**Respuesta:** La amplitud de la señal de salida tiene aproximadamente 3.33 divisiones por cuadro.
+**Respuesta:** *La amplitud de la señal de salida tiene aproximadamente 3.33 divisiones por cuadro.*
 
 **4.2.** ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-**Respuesta:** La perilla esta posicionada en el valor de 3 VOLTS/DIV.
+**Respuesta:** *La perilla esta posicionada en el valor de 3 VOLTS/DIV.*
 
 **4.3.** ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-**Respuesta:** El ciclo completo que abarca la señal de salida es de 4 cuadros.
+**Respuesta:** *El ciclo completo que abarca la señal de salida es de 4 cuadros.*
 
 **4.4.** ¿En qué valor está posicionada la perilla TIME/DIV? 
 
-**Respuesta:** La perilla esta posicionada en el valor de 0.1ms 
+**Respuesta:** *La perilla esta posicionada en el valor de 0.1ms* 
 
 **4.5.** ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
@@ -106,7 +106,7 @@ f: _____________(Hz)
 
 **4.8.** Compare el voltaje medido en el punto 4.5. y el obtenido en el punto 4.7. ¿Coinciden? _______ ¿Por qué?
 
-**Respuesta:** No coinciden en absoluto, porque debido a que en el punto 4.5 tenemos la amplitud del voltaje medido por la onda senosoidal entonces ahi tiene valores como decir disparados y dispersos en cambio en el multimetro tiene una exactitud muy conforme al voltaje requerido. 
+**Respuesta:** *No coinciden en absoluto, porque debido a que en el punto 4.5 tenemos la amplitud del voltaje medido por la onda senosoidal entonces ahi tiene valores como decir disparados y dispersos en cambio en el multimetro tiene una exactitud muy conforme al voltaje requerido.*
 
 5. **VIDEO DE YOUTUBE**
 
